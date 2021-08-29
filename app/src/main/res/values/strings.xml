@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiModularApp</string>
+    <string name="title_dynamicfeature">News_feature</string>
+</resources>
